@@ -25,7 +25,7 @@ import hashlib
 
 ## Usage
 
-Open the file pychain.py in your personal comuter, using the VS Code.
+Open the file pychain.py in your personal comuter, using the VS Code to check out the code, after that you can open the terminal folder and run the streamlit to vizualize the outcome.
 
 ## Results
 
